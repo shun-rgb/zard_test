@@ -24,5 +24,9 @@ ZARDに関する事柄を検定として提供する。
 なぜこのサービスを作りたいのか？
 ・幼少期よりZARDの歌が好きであったが、歌詞を間違えたり知らないことがあるととても悔しかったため、知識の定着と養成を目的にそれを解消したいと思いました。
 
+ER図
+https://gyazo.com/4124667e69bde9e354e4d4fe0a6a30f6
+
 画面遷移図
 https://www.figma.com/file/C3lNZOCcrUqQpoht7e0iIy/zard_test?node-id=0%3A1
+ 402a46f3e738c55fc8dd3f9cba17c7ceb3ce44ea
